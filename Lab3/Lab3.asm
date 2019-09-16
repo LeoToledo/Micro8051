@@ -86,5 +86,5 @@
 ;		NOP			;Rotina de atraso 125us	
 ;		NOP			;Rotina de atraso 125us
 ;		LJMP	SET2
-;
+;		RETI
 ;		END			
