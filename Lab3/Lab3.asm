@@ -63,6 +63,7 @@
 ;		NOP			 ;Rotina de atraso 500us
 ;		NOP			;Rotina de atraso 500us
 ;		LJMP	SET1
+;		RETI
 ;
 ;SET2:		;Onda de 4hz
 ;		;Programando a interrupção externa 1
